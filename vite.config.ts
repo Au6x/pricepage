@@ -5,7 +5,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // 👇 This is critical for GitHub Pages
-  base: "/pricepage/",
+  base: "/raypricepage",
 
   server: {
     host: "::",
